@@ -39,7 +39,7 @@
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 - :envelope_with_arrow: I run a weekly newsletter service for the developers, [Developers Treasure Chest](https://newsletter.hasin.me) where you will find a curated list of awesome resources.
-- :busts_in_silhouette: I actively manage a few popular Facebok groups - [WordPressians](https://www.facebook.com/groups/241884142616448), [Talk.js](https://www.facebook.com/groups/talkjs.net), [phpXperts](https://www.facebook.com/groups/256755924335725), [Laravel Bangladesh](https://www.facebook.com/groups/188317497974479), and [ReactJS Bangladesh](https://www.facebook.com/groups/903615493305779)
+- :busts_in_silhouette: I actively manage a few popular Facebok groups - [WordPressians](https://www.facebook.com/groups/241884142616448), [Talk.js](https://www.facebook.com/groups/talkjs.net), [phpXperts]
 
 ### Numbers
 ![Armaghan's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
@@ -51,4 +51,4 @@
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armaghanfazal/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/hasin](https://www.facebook.com/armaghan.619/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/armaghan.619/)
