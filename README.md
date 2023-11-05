@@ -39,7 +39,6 @@
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 - :envelope_with_arrow: I run a weekly newsletter service for the developers, [Developers Treasure Chest](https://newsletter.hasin.me) where you will find a curated list of awesome resources.
-- :busts_in_silhouette: I actively manage a few popular Facebok groups - [WordPressians](https://www.facebook.com/groups/241884142616448), [Talk.js](https://www.facebook.com/groups/talkjs.net), [phpXperts]
 
 ### Numbers
 ![Armaghan's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
