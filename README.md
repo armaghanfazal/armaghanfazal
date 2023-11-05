@@ -80,11 +80,11 @@
 
 
 ### Numbers
-![Armaghan's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Armaghan's Stats](https://github-readme-stats.vercel.app/api?username=armaghanfazal&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![Armaghan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![Armaghan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armaghanfazal&theme=darcula&hide_border=true)
 
-![Armaghan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Armaghan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaghanfazal&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
