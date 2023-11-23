@@ -77,6 +77,56 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+🚀 Results-Driven Project Coordinator & Python DevOps Maestro
+
+Passionate about steering projects to success through meticulous planning and agile execution.
+
+🤝 Collaboration Extraordinaire:
+Coordinating closely with cross-functional teams to define project objectives, ensuring alignment with organizational goals.
+
+📅 Project Planning Guru:
+Developing and maintaining comprehensive project plans, assigning tasks, and creating realistic timelines with efficient resource allocation.
+
+🔄 Agile Implementer:
+Driving efficient project execution through Agile methodologies, adaptive planning, and iterative development.
+
+💡 Python Powerhouse:
+Leveraging Python programming for cutting-edge scripts, tools, and automation frameworks to streamline DevOps processes.
+
+🔧 CI/CD Architect:
+Designing and deploying robust CI/CD pipelines using Jenkins and GitLab CI/CD for seamless software delivery and deployment.
+
+☁️ Cloud Management Pro:
+Proficiently managing cloud infrastructure on AWS, Azure, and Google Cloud. Utilizing infrastructure-as-code tools like Terraform for scalability and resilience.
+
+🐳 Containerization Maestro:
+Containerizing applications with Docker and orchestrating deployments with Kubernetes for efficient scaling and seamless application deployments.
+
+🔒 Configuration Management Expert:
+Implementing configuration management tools like Ansible for maintaining consistent and reliable infrastructure and application environments.
+
+🚀 Optimization Collaborator:
+Collaborating closely with software engineers to optimize application performance, scalability, and reliability.
+
+🔍 Proactive Vigilance:
+Vigilantly monitoring project progress, identifying risks, and implementing effective mitigation strategies for successful project outcomes.
+
+📋 Recent Project Highlights:
+
+- Set up CI/CD pipelines using Docker, Nexus Artifactory, and Slack.
+- Successfully migrated applications to AWS, Azure, and Digital Ocean.
+- Designed microservice architecture for existing applications.
+- Created an auto-scalable PostgreSQL database and integrated it with the existing system.
+- Orchestrated auto-scalable web servers and scalable background jobs processing 8-10 billion jobs per week.
+- Containerized systems for deployment on Elastic Container Service.
+- Implemented CD pipelines for automated code deployment to various environments.
+- Integrated third-party log services such as Datadog for comprehensive monitoring.
+
+📩 Let's Connect:
+Open for work and employment opportunities. Reach out at armghan255@gmail.com 
+
+🎉 Let's Craft Something Extraordinary Together! 💻✨
+
 
 
 ### Numbers
